@@ -1,4 +1,4 @@
-# hello-world
-Practice of utilizing git properly
+# Code Demonstration Repo
+I upload code for projects that I didn't use Github for here!
 
-Jake is a Pancake
+
