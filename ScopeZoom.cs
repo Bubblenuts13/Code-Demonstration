@@ -1,4 +1,5 @@
-﻿using System.Collections;
+//C# Code used in Heights to control our telescopes. The player can access the telescope and use it to spy on things from great distances!
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
